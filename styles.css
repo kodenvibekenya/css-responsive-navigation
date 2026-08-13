@@ -1,0 +1,22 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #17211b;
+  background: #fffaf0;
+  font: 1rem/1.5 system-ui, sans-serif;
+}
+
+/* TODO 1: Hide .skip-link off-screen, but reveal it with :focus. */
+
+/* TODO 2: Constrain .site-header and main; add flexible padding. */
+
+/* TODO 3: Make .site-header a wrapping column and .nav-list a wrapping flex row. */
+
+/* TODO 4: Style link target size, current page, hover, and focus-visible. */
+
+/* TODO 5: At a content-driven min-width, align brand and nav in one row. */
