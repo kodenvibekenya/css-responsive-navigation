@@ -30,3 +30,19 @@ Open `index.html` and edit only `styles.css`. Resize continuously from 320px to 
 ## Finish
 
 Test 320px, 200% zoom, a long translated link label, and keyboard focus.
+
+<!-- mastery-kit:start -->
+## How to know you nailed it
+
+[![Mastery checks](https://github.com/kodenvibekenya/css-responsive-navigation/actions/workflows/mastery.yml/badge.svg)](https://github.com/kodenvibekenya/css-responsive-navigation/actions/workflows/mastery.yml)
+
+Open [MASTERY.md](MASTERY.md), then run:
+
+```sh
+node --test test/mastery.test.mjs
+```
+
+The untouched challenge is expected to start red. Keep the failures visible while you work; make the implementation satisfy the checks instead of deleting, skipping, or weakening them.
+
+A project is complete only when the automated checks, real-use/manual checks, and all three explain-back prompts pass. The [free KODE Ń VIBE mastery guide](https://kodenvibe.tech/notes/mastery/) explains why a green check alone is not enough.
+<!-- mastery-kit:end -->
